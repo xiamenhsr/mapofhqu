@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="enter">走起！</string>
+    <string name="zhuce">注册</string>
+    <string name="username">账号</string>
+    <string name="pwd">密码</string>
+</resources>
